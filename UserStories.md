@@ -13,3 +13,4 @@ The user wants an interactive diagram on the website with information on what ea
 - *"To share information with daughter for help"*: Include links to pages on the website that details the part,
 - *"To read other peoples opinions"*: Add a reviews feature. Either reviews from other websites or ones from just our app/website.
 - *"Order parts by price as price is important"*: To be able to order parts by criteria like price.
+## Q: Do you want a user guide or tutorial option when you interact with the search tool?
